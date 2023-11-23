@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://kaggle.com/namitabagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="namitabagri" height="30" width="40" /></a>
 <a href="https://medium.com/@namitabagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@namitabagri" height="30" width="40" /></a>
-<a href="/https://medium.com/@namitabagri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@namitabagri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
