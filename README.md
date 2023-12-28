@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Namita</h1>
-<h3 align="center">A passionate Data Science student</h3>
+<h3 align="center">A passionate post grad Data Science student</h3>
 
 - 🔭 I’m currently working at **Boston Consulting Group as a data analyst intern**
 
