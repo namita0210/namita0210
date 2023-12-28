@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working at **Boston Consulting Group as a data analyst intern**
 
+- I am pursuing a Master's degree in Artificial Intelligence and Data Science
+
 - 👨‍💻 Have a look at my professional journey so far [https://namita0210.github.io/whiteThemePortfolio.github.io/](https://namita0210.github.io/whiteThemePortfolio.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@namitabagri](https://medium.com/@namitabagri)
